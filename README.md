@@ -13,7 +13,11 @@ This project analyzes customer spending behavior using statistical techniques an
 - Matplotlib
 - SciPy
 - Scikit-Learn
-https://github.com/aditichouksey25-debug/Customer-Spending-Distribution-Analysis/blob/main/excel%20box%20with%20outliers.png
+##Excel Histogram(With outliers)
+![Histogram with outliers](excel with outliers histogram.png)
+##Excel Histogram (Without outliers)
+![Histogram without outliers](excel histogram without outliers.png)
+
 
 ## Analysis Performed
 - Data Cleaning
