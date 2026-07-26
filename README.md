@@ -13,14 +13,6 @@ This project analyzes customer spending behavior using statistical techniques an
 - Matplotlib
 - SciPy
 - Scikit-Learn
-##Excel Histogram(With outliers)
-
-![Histogram with outliers](excel with outliers histogram.png)
-
-##Excel Histogram (Without outliers)
-
-![Histogram without outliers](excel histogram without outliers.png)
-
 
 ## Analysis Performed
 - Data Cleaning
